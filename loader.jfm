@@ -1,0 +1,25 @@
+object loader: TFGUIForm
+  Left = 123
+  Top = 886
+  BorderIcons = [biSystemMenu]
+  Caption = 'loader'
+  ClientHeight = 561
+  ClientWidth = 984
+  Color = clBtnFace
+  ParentFont = True
+  FormStyle = fsStayOnTop
+  OldCreateOrder = True
+  Position = poDesigned
+  Visible = True
+  OnClose = FormClose
+  OnCloseQuery = FormCloseQuery
+  OnMouseActivate = FormMouseActivate
+  OnResize = FormResize
+  FrameType = 5
+  Modified = False
+  Resizable = False
+  Undecorated = False
+  Background = clBtnFace
+  PixelsPerInch = 96
+  TextHeight = 13
+end
